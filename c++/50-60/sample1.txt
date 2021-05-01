@@ -1,0 +1,21 @@
+This chapter teaches you how to set backgrounds of various HTML elements. You can set
+the following background properties of an element:
+ The background-color property is used to set the background color of an
+element.
+ The background-image property is used to set the background image of an
+element.
+ The background-repeat property is used to control the repetition of an image in
+the background.
+ The background-position property is used to control the position of an image in
+the background.
+ The background-attachment property is used to control the scrolling of an
+image in the background.
+ The background property is used as a shorthand to specify a number of other
+background properties.
+Set the Background Color
+Following is the example, which demonstrates how to set the background color for an
+element.
+<p style="background-color:yellow;">
+This text has a yellow background color.
+</p>
+It will produce the following result:
